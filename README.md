@@ -21,7 +21,7 @@ This is a basic recipe website that consists of a main index page with links to 
 
 ## How to Use
 
-1. Open the `index.html` file in your web browser to access the main page.
+1. Open the [GitHub Pages Site]`https://chetpls.github.io/odin-recipes/` link in your web browser to access the main page.
 2. Click on any recipe link to view the details of that recipe.
 3. Use the "Go Back" button at the bottom right of each recipe page to return to the previous page.
 
